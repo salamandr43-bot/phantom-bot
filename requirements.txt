@@ -1,11 +1,5 @@
-undetected-chromedriver
-
-selenium
-
-beautifulsoup4
+Plaintext
 
 pyTelegramBotAPI
-
-webdriver-manager
-
-setuptools
+requests
+flask
