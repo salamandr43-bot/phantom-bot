@@ -1,4 +1,9 @@
 undetected-chromedriver
+
 selenium
+
 beautifulsoup4
+
 pyTelegramBotAPI
+
+webdriver-manager
